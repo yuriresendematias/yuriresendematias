@@ -17,4 +17,4 @@ Sou estudante de Ciência da Computação na UFAPE – Garanhuns. Gosto de atuar
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriresendematias&layout=compact) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriresendematias&layout=compact&theme=dark)
